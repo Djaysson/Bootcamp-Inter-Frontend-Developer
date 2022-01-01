@@ -18,3 +18,5 @@ O Projeto **Bootcamp Inter Frontend Developer** é um repositório para estudos,
 ## 🚀 Desafios
 
 1 - [Github-primeiro-repositório](01-desafio-github-primeiro-repositorio)
+
+2 - [Introdução-ao-javascript-desafios-de-projetos](2-introduçao-ao-javascript-desafios-de-projetos)

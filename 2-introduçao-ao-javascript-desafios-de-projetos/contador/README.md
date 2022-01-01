@@ -1,10 +1,12 @@
-# Contador
+<h1 align="center">Contador</h1>
+
+## 💻 Projeto
 
 Neste projeto, iremos fazer a nossa primeira integração de um código Javascript com uma página HTML.
 
 <br>
 
-# Desafios
+## 🏋️‍♀️ Desafios
 
 - Tente implementar os eventos usando o método addEventListener.
 
@@ -15,3 +17,11 @@ Neste projeto, iremos fazer a nossa primeira integração de um código Javascri
 <br>
 
 ![project image](image/projectImage.png)
+
+<br>
+
+## 🚀 Tecnologias
+
+- HTML
+- CSS
+- Javascript
