@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #e6e6e6;
+  font-family: "Roboto", sans-serif;
+  height: 100vh;
+}
+
+#container {
+  width: 100%;
+  height: 50%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #dfdbdb;
+}
+
+#container p {
+  font-size: 45px;
+  margin: 0;
+  font-weight: 700;
+  color: #383737;
+}
+#currentNum {
+  font-size: 35px;
+  padding: 10px 0px;
+  font-weight: 500;
+  color: #383737;
+}
+
+.btnContainer {
+  width: 150px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.btn {
+  width: 70px;
+  height: 30px;
+  color: #fff;
+  border: 0;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.btn:hover {
+  transform: scale(1.1);
+}
+.btn[name="subtract"] {
+  background-color: #ec6868;
+}
+.btn[name="add"] {
+  background-color: #7db86b;
+}
