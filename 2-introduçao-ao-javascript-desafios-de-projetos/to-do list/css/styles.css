@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #fcf5f6;
+  font-family: "Roboto", sans-serif;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+.container h1 {
+  font-size: 45px;
+  color: #4d4d4dd5;
+}
+.todoContainer {
+  min-width: 60vw;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #e2cece75;
+  border-radius: 5px;
+}
+#form {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin: 10px 0;
+}
+#input {
+  width: 35vw;
+  height: 40px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+
+  padding: 0px 8px;
+  background-color: #ffffffbb;
+}
+#input::placeholder {
+  color: #00000091;
+}
+
+#button {
+  width: 10vw;
+  border: none;
+  border-radius: 5px;
+  background-color: #66ec4bbb;
+  color: #fff;
+  font-size: 0.8em;
+  font-weight: 700;
+  cursor: pointer;
+}
+#button:hover {
+  background-color: #3a6b30b2;
+}
+#tasks {
+  width: 45vw;
+}
+.listItems {
+  margin: 15px 20px;
+  color: #0a0a0a85;
+  text-transform: capitalize;
+  text-align: left;
+  background-color: #b8a2914d;
+}
+.listItems label {
+  font-size: 1.2em;
+}
+.listItems :checked + label {
+  text-decoration: line-through;
+}
+.listItems input {
+  min-width: 1.2em;
+  min-height: 1.2em;
+  margin-right: 10px;
+}
+.listItems button {
+  min-width: 1.2em;
+  min-height: 1.2em;
+  margin-right: 10px;
+}
+@media (min-width: 320px) and (max-width: 700px) {
+  .container h1 {
+    font-size: 35px;
+  }
+  .todoContainer {
+    min-width: 90vw;
+  }
+  #input {
+    width: 50vw;
+    height: 35px;
+    padding: 0px 5px;
+  }
+  #button {
+    width: 25vw;
+  }
+  #tasks {
+    width: 80vw;
+  }
+  .listItems {
+    margin: 10px 15px;
+  }
+  .listItems label {
+    font-size: 1em;
+  }
+  .listItems input {
+    min-width: 1em;
+    min-height: 1em;
+    margin-right: 5px;
+  }
+}
