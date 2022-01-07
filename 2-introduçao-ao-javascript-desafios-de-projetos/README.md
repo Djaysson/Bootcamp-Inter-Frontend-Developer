@@ -19,8 +19,12 @@ Projetos referentes ao curso "Introdução ao Javascript" da Bootcamp Inter Fron
 
 ![project image](to-do-list/image/todoImage.png)
 
-### projetos
+### Projetos
 
 1 - [contador](contador)
 
 2 - [to-do-list](to-do-list)
+
+### Atividades
+
+1 - [sintaxe-e-operadores](sintaxe-e-operadores)
