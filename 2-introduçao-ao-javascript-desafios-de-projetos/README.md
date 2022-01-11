@@ -30,3 +30,5 @@ Projetos referentes ao curso "Introdução ao Javascript" da Bootcamp Inter Fron
 1 - [sintaxe-e-operadores](sintaxe-e-operadores)
 
 2 - [palindromo](palindromo)
+
+2 - [substituiPares](substituiPares)
