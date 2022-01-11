@@ -28,3 +28,5 @@ Projetos referentes ao curso "Introdução ao Javascript" da Bootcamp Inter Fron
 ### Atividades
 
 1 - [sintaxe-e-operadores](sintaxe-e-operadores)
+
+2 - [palindromo](palindromo)
