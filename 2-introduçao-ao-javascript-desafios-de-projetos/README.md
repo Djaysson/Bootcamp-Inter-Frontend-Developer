@@ -21,14 +21,16 @@ Projetos referentes ao curso "Introdução ao Javascript" da Bootcamp Inter Fron
 
 ### Projetos
 
-1 - [contador](contador)
+1 - [Contador](contador)
 
-2 - [to-do-list](to-do-list)
+2 - [To-do-list](to-do-list)
 
 ### Atividades
 
-1 - [sintaxe-e-operadores](sintaxe-e-operadores)
+1 - [Sintaxe-e-operadores](sintaxe-e-operadores)
 
-2 - [palindromo](palindromo)
+2 - [Palindromo](palindromo)
 
-2 - [substituiPares](substituiPares)
+3 - [SubstituiPares](substituiPares)
+
+4 - [Atividade-de-função](funcao)
