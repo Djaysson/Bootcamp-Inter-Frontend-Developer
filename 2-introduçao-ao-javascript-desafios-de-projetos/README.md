@@ -1,31 +1,28 @@
 <h1 align="center">Introdução ao Javascript</h1>
 
-Projetos referentes ao curso "Introdução ao Javascript" da Bootcamp Inter Frontend Developer administrado pela Digital Innovation One.
+Projetos e atividades referentes a "Javascript" da Bootcamp Inter Frontend Developer administrado pela Digital Innovation One.
 
 <br>
 
-- Contador
-- To-do List
-
-<br>
-
-### Contador
+### Projeto Contador
 
 ![project image](contador/image/projectImage.png)
 
 <br>
 
-### To-do List
+### Projeto To-do List
 
 ![project image](to-do-list/image/todoImage.png)
 
-### Projetos
+### Guia dos Projetos
 
 1 - [Contador](contador)
 
 2 - [To-do-list](to-do-list)
 
-### Atividades
+<br>
+
+### Guia das Atividades
 
 1 - [Sintaxe-e-operadores](sintaxe-e-operadores)
 
@@ -34,3 +31,5 @@ Projetos referentes ao curso "Introdução ao Javascript" da Bootcamp Inter Fron
 3 - [SubstituiPares](substituiPares)
 
 4 - [Atividade-de-função](funcao)
+
+5 - [Coleções Chaveadas](colecoes-chaveadas)
