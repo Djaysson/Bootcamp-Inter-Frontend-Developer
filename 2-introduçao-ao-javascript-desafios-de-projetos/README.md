@@ -33,3 +33,5 @@ Projetos e atividades referentes a "Javascript" da Bootcamp Inter Frontend Devel
 4 - [Atividade-de-função](funcao)
 
 5 - [Coleções Chaveadas](colecoes-chaveadas)
+
+6 - [Depuração e Tratamento de Erros](debug-error)
