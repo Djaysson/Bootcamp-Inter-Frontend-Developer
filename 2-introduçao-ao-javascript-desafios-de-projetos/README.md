@@ -35,3 +35,5 @@ Projetos e atividades referentes a "Javascript" da Bootcamp Inter Frontend Devel
 5 - [Coleções Chaveadas](colecoes-chaveadas)
 
 6 - [Depuração e Tratamento de Erros](debug-error)
+
+7 - [Javascript Assíncrono](javascript-assincrono)
