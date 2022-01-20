@@ -37,3 +37,5 @@ Projetos e atividades referentes a "Javascript" da Bootcamp Inter Frontend Devel
 6 - [Depuração e Tratamento de Erros](debug-error)
 
 7 - [Javascript Assíncrono](javascript-assincrono)
+
+8 - [orientação-a-objetos](orientacao-a-objetos)
