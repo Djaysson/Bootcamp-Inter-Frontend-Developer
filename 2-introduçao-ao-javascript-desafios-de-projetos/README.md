@@ -39,3 +39,7 @@ Projetos e atividades referentes a "Javascript" da Bootcamp Inter Frontend Devel
 7 - [Javascript Assíncrono](javascript-assincrono)
 
 8 - [orientação-a-objetos](orientacao-a-objetos)
+
+9 - [Manipulando o Map, Filter e Reduce](map-filter-reduce)
+
+10 - [Dom](DOM)
